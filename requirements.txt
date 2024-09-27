@@ -1,0 +1,7 @@
+selenium
+fastapi[all]
+PyMuPDF
+pymongo
+langchain-community
+langchain-openai
+beautifulsoup4
